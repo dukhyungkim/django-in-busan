@@ -1,1 +1,1 @@
-web: gunicorn dango_in_busan.wsgi --log-file -
+web: gunicorn django_in_busan.wsgi --log-file -
