@@ -1,0 +1,1 @@
+web: gunicorn dango_in_busan.wsgi --log-file -
